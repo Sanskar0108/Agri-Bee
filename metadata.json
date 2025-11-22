@@ -1,0 +1,9 @@
+{
+  "name": "Real AgriBee ",
+  "description": "A golden-themed agricultural social app with seamless authentication screens.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
